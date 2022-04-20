@@ -1,11 +1,11 @@
 package Main;
 
-import shapes.HinhChuNhat;
-import shapes.HinhTron;
-import shapes.HinhTru;
-import shapes.HinhVuong;
+import Shapes.HinhChuNhat;
+import Shapes.HinhTron;
+import Shapes.HinhTru;
+import Shapes.HinhVuong;
 
-public class MainClass {
+public class app54 {
 
  public static void main (String[]args) {
      // Thử nghiệm với lớp Hình tròn 
