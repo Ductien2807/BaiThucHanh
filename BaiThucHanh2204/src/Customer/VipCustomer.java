@@ -1,11 +1,11 @@
-package customer;
+package Customer;
 import person.person;
 import java.util.Scanner;
-public class VipCustomer extends Person {
+public class VipCustomer extends person {
     public String LoaiKH;
     Scanner sc = new Scanner(System.in);
 
-    public VIPCustomer() {
+    public VipCustomer() {
         LoaiKH = "Khach hang VIP";
     }
 
