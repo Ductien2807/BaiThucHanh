@@ -4,7 +4,7 @@ public class FullTimeEmployee extends Employee {
     public int luong;
 
     public FullTimeEmployee() {
-        LoaiNV = "Nhan vien toan thoi gian";
+        loaiNhanVien() = "Nhan vien toan thoi gian";
     }
 
     public void nhapLuong() {

@@ -1,7 +1,7 @@
 package Employee;
 
 public class PartTimeEmployee extends Employee{
-    private int GioLamViec; //Tổng số giờ làm việc của nhân viên
+    private int GioLamViec; 
 
     public void nhapttPartTime()
     {
